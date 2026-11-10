@@ -9,3 +9,4 @@ venv/
 *.docx
 *.pdf
 *.odt
+flowchart_*
